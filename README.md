@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Bitcoin Core integration Bitbarg extereme Edition Core 
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
